@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "PRISONEER",
+  "base_artist": "北沢強兵",
+  "createdAt": "2026-03-13T11:16:07.614359Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PRISONEER",
+      "artist": "北沢強兵",
+      "has_synced": false,
+      "path": "select/pl_01_PRISONEER_北沢強兵.txt"
+    }
+  ]
+}
